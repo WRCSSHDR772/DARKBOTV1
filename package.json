@@ -1,5 +1,5 @@
 {
-  "name": "BetaBOT",
+  "nama" : "DARK BOT V1" ,
   "version": "1.0.0",
   "description": "bot wa yang mudah untuk digunakan",
   "main": "index.js",
@@ -42,7 +42,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/benisadewa/reuzsc/issues"
+    "url": "https://github.com/WRCSSHDR772/DARKBOTV1/issues"
   },
-  "homepage": "https://github.com/benisadewa/reuzsc#readme"
+  "homepage": "https://github.com/WRCSSHDR772/DARKBOTV1#readme"
 }
